@@ -1,0 +1,14 @@
+{
+  "name": "arc-plugins-mjs-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@architect/architect": "^10.16.3"
+  }
+}
